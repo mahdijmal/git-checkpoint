@@ -1,0 +1,18 @@
+commit 54156231e3c26f18fc9252026f508ca5b0a4f836 (HEAD -> master)
+Author: mahdi <mahdijmal28@gmail.com>
+Date:   Sat Jun 27 15:05:38 2020 +0100
+
+    removing third.txt
+
+commit d0f42f1167cf984dec5b07b8e3eb22199fcc3eb5
+Author: mahdi <mahdijmal28@gmail.com>
+Date:   Sat Jun 27 15:04:45 2020 +0100
+
+    adding fourth.txt
+
+commit 0cb9229908aac57472307e05e04f81c588edf5cd
+Author: mahdi <mahdijmal28@gmail.com>
+Date:   Sat Jun 27 15:02:07 2020 +0100
+
+    adding third.text
+PS C:\Users\mahdi\OneDrive\Bureau\learn_git_again> 
